@@ -1,0 +1,48 @@
+
+    /* Set the background color to white */
+    body {
+      background-color: white;
+    }
+
+    /* Set the font color to black */
+    body, h1, p {
+      color: black;
+    }
+
+    /* Style the links */
+    a {
+      color: black;
+      text-decoration: none;
+    }
+    a:hover {
+      color: darkgray;
+    }
+
+    /* Style the header */
+    header {
+      background-color: lightgray;
+      padding: 20px;
+    }
+    h1 {
+      margin: 0;
+    }
+
+    /* Style the content */
+    section {
+      margin: 20px;
+      padding: 20px;
+      background-color: whitesmoke;
+      border-radius: 10px;
+    }
+    p {
+      line-height: 1.5;
+    }
+
+    /* Style the footer */
+    footer {
+      background-color: lightgray;
+      color: gray;
+      padding: 10px;
+      text-align: center;
+    }
+
